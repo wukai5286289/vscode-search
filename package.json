@@ -43,8 +43,8 @@
     "keybindings": [
       {
         "command": "code-search",
-        "key": "alt+shift+q",
-        "mac": "ctrl+shift+q"
+        "key": "space",
+        "mac": "space"
       },
       {
         "command": "magic-data",
